@@ -1,6 +1,7 @@
 {
-    "name": "datatables.net",
+    "name": "@arnoschn/datatables.net",
     "version": "1.10.16",
+    "private":true,
     "description": "DataTables for jQuery ",
     "files": [
         "js/**/*.js"
@@ -20,9 +21,6 @@
     "author": {
         "name": "SpryMedia Ltd",
         "url": "http://datatables.net"
-    },
-    "dependencies": {
-        "jquery": ">=1.7"
     },
     "repository": {
         "type": "git",
